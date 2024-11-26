@@ -25,9 +25,15 @@ Os itens abaixo mostram funções como: apagar fundo, apagar objetos e pessoas, 
    
       Ex_4: Apagar mais de uma pessoa usando o **carimbo**, usando o **CRTL** para escolher que parte irá carimbar.
     
-4. AtividadeBanner:
+2. AtividadeBanner:
 
    *A pasta possui 1 imagen:
    
       Banner: O banner foi feito com a utlização das ferramentas anteriores e de novas ferramentas como a **Ferramenta de rotação**, **Bordas** e etc.
+
+
+
+3. ReadMes:
+
+   *A pasta possui os readmes, referentes a outros repositórios, feitos utilizando o GIMP.
   
